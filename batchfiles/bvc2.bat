@@ -1,0 +1,2 @@
+@echo "herp"
+@exit /b

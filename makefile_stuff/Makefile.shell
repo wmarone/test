@@ -1,0 +1,4 @@
+WD = $(shell pwd)
+
+test:
+	@echo WD = $(WD)
